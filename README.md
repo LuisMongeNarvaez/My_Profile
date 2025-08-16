@@ -7,9 +7,7 @@
 # Luis Monge Narvaez  
 🌐 **🇺🇸 English | 🇪🇸 Spanish** 
 
-### Making tech easy for everyone | Bilingual Support Specialist 💻🌎
-
-#### 💻 Bilingual IT & Technical Support Specialist 
+### Making tech easy for everyone 🌎 |  💻 Bilingual IT & Technical Support Specialist 
 
 🏅 Certified by **Google** · **IBM** · **Harvard** · **MIT** · **Stanford** · **Penn State**
 
