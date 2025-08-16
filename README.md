@@ -4,10 +4,11 @@
 
 <div align="center">
 
-# Luis Monge Narvaez  
-🌐 **🇺🇸 English | 🇪🇸 Spanish** 
-
-### Making tech easy for everyone 🌎 |  💻 Bilingual IT & Technical Support Specialist 
+# Luis Monge Narvaez 
+## 💻 Bilingual IT & Technical Support Specialist 🌐 
+**🇺🇸 English | 🇪🇸 Spanish** 
+## Making Tech easy for everyone 🌎   
+ 
 
 🏅 Certified by **Google** · **IBM** · **Harvard** · **MIT** · **Stanford** · **Penn State**
 
