@@ -4,20 +4,23 @@
 
 <div align="center">
 
-# 💻 Bilingual IT & Technical Support Specialist  
-🌐 **🇺🇸 English | 🇪🇸 Spanish**  
-🏅 Certified by **Google** · **IBM** · **Harvard** · **MIT** · **Stanford** · **Penn State**
+# Luis Monge Narvaez  
+ 
+🌐 **🇺🇸 English | 🇪🇸 Spanish** 
 
----
+### Making tech easy for everyone | Bilingual Support Specialist 💻🌎
+
+#### 💻 Bilingual IT & Technical Support Specialist 
+
+🏅 Certified by **Google** · **IBM** · **Harvard** · **MIT** · **Stanford** · **Penn State**
 
 🔧 **Software · Hardware · Networking Troubleshooting**  
 🤝 **People-First Approach** | 🕒 **High-Pressure Environments**  
 
-I combine **technical expertise** with clear, **user-friendly solutions**, ensuring clients feel **confident and supported** — in both **English** and **Spanish**.
-
 ---
 
 ## 🔧 Technologies & Tools
+---
 
 ### 🎓 Education
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -53,8 +56,6 @@ I combine **technical expertise** with clear, **user-friendly solutions**, ensur
 ---
 
 <!-- Keep all your other sections here in same center alignment -->
-
----
 
 ## 🌱 Currently Learning
 - ✅ Cisco Networking Essentials
