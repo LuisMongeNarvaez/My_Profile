@@ -5,7 +5,6 @@
 <div align="center">
 
 # Luis Monge Narvaez  
- 
 🌐 **🇺🇸 English | 🇪🇸 Spanish** 
 
 ### Making tech easy for everyone | Bilingual Support Specialist 💻🌎
@@ -65,6 +64,8 @@
 ---
 
 ## 🚀 Projects
+[Django](https://github.com/TINTINCR1/My_Django_Profile.git)
+
 [CS50 Repository](https://github.com/TINTINCR1/CS50.git)
 
 ---
