@@ -1,6 +1,6 @@
 📖 About This Project
 
-Structural Elements 
+# Structural Elements 
 
 This project is my personal portfolio, built with Markdown and converted into HTML. It highlights my skills, certifications, and projects in a clean, GitHub-friendly format.
 
