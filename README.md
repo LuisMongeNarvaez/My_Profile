@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/530645443_4098993570371986_4350213973513860564_n.jpg?stp=dst-jpg_p206x206_tt6&_nc_cat=110&ccb=1-7&_nc_sid=714c7a&_nc_ohc=0ZhxTK9HdqcQ7kNvwF02l6O&_nc_oc=Adl3cnf32RL2U8eI0ArNQmnGR62HOzMacxpB5HXP5FylABhuguqERsPlL1D-lN-maRED2AHnEWOQWQQJbCG-g_NL&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=WXN0nhN2AqPwnsyXEA-XQQ&oh=00_AfWNqxUJR4QIyL1rSMeFcf-OhKpD_O1iXeEjW7O7fKs-PQ&oe=68A0EF7C" alt="Profile Banner"/>
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"/>
 </p>
 
 <div align="center">
