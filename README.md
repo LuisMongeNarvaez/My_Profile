@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"/>
+  <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-12%2008-47-06.png?raw=true"width="200"/>
 </p>
 
 <div align="center">
