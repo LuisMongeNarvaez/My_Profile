@@ -62,10 +62,30 @@
 
 ---
 
-## 🚀 Projects
-[Django](https://github.com/TINTINCR1/My_Django_Profile.git)
+## 🚀 Featured Frameworks & Projects
 
-[CS50 Repository](https://github.com/TINTINCR1/CS50.git)
+### Explore my work:
+
+<p align="center">
+  <a href="https://github.com/LuisMongeNarvaez/My_Django_Profile">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx5RI3jY2JPV3HuxRoHNtNmTYhVHkwAspKQ&s" alt="Django" width="100"/> 
+    <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-19%2012-07-03.png?raw=true" alt="PostgreSQL" width="120"/>
+    <br/>
+    <b>Django | PostgreSQL Portfolio </b>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/LuisMongeNarvaez/My_Flask_Profile">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKHLwqsvfGllqbxbGEwmQV9hrkKv8gC8NrQ&s" alt="Flask" width="100"/>
+    <br/>
+    <b>Flask Portfolio</b>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/LuisMongeNarvaez/My_FastAPI_Profile">
+    <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-18%2010-14-06.png?raw=true" alt="FastAPI" width="100"/>
+    <br/>
+    <b>FastAPI Portfolio</b>
+  </a>
+</p>
 
 ---
 
