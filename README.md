@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=Me.jpg" />
-
+  <img src="https://github.com/LuisMongeNarvaez/My_Profile/blob/main/Me.jpg?raw=true" width="200" />
 </p>
 
 <div align="center">
